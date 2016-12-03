@@ -1,0 +1,27 @@
+.header {
+    color: red;
+}
+
+body {
+    text-align: center;
+    background: url()
+}
+
+#main-container {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.task-div {
+    align-content: center;
+    background-color: white;
+    margin: 5% 0;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.change {
+    margin: 0.7em 1em;
+}
